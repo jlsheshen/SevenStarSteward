@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background_color"
+    android:orientation="vertical" >
+
+    <!-- com.lib.shiguotao.view.circleImage.RoundedImageView -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" >
+
+        <ImageView
+            android:id="@+id/personal_make_money_master_item_icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:layout_marginLeft="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/personal_center_head_image_icon" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/personal_nick_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right|top"
+                android:singleLine="true"
+                android:text="昵称:"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/personal_balance_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="right|center_vertical"
+                android:singleLine="true"
+                android:text="余额:"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/personal_integral_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="right|bottom"
+                android:singleLine="true"
+                android:text="积分:"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/personal_bianma_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|top"
+                android:singleLine="true"
+                android:text="家庭编码:"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/personal_huiyuan_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="left|center_vertical"
+                android:singleLine="true"
+                android:text="普通会员:"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/personal_wanshan_info_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="left|bottom"
+                android:singleLine="true"
+                android:text="完善信息"
+                android:textColor="@color/_7d7d7d"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:horizontalSpacing="1dp"
+        android:listSelector="#00000000"
+        android:numColumns="3"
+        android:scrollbars="none"
+        android:verticalSpacing="1dp" />
+
+</LinearLayout>

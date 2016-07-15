@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.sevenstar.steward2016"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23"/>
+
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
+
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <!-- 接收短信权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <!-- 读取程序信息  IMEI -->
+    <uses-permission android:name="android.permission.READ0_PHONE_STATE"/>
+    <!-- 手机读取权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <application
+        android:name=".StarApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@android:style/Theme.Black.NoTitleBar">
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.PersonalCenterActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.LiveServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.videogo.main.EzvizWebViewActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".activity.HourPointServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.HolidayMealsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.NursingInstitutionForTheAgedActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MainActivityArrangeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ChildActivityArrangeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.LeisureTourismActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.VideoServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CleanKeepingCleanoutActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.OverhaulServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.PrivateChefActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ChineseMedicinePhysiotherapyActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.KickStarterActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.RentInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.FeatureOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommodityInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ServiceForTheAgedActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.RegisterUserActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
+            android:name=".activity.TechnicianStraightTrystActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ShuttleServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.HourPointContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.HourPointContactActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CleaningOrderContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.SelectHouseTypeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.SelectCleanServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ShopContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyShopOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyServicePackageOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyHourServiceOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyActivityOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyTravelOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyHousekeeperActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyKeFuActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyReleaseOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyBlackListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyCollectionListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyNeighbourActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityNewsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityNewsContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.ActivityContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.LeisureTourismContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.PrivateVideoContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.FestivalPackageContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyPingGuActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyHeTongActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.ShowPdfAcitivty"/>
+        <activity
+            android:name=".activity.AddFitnesUserActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityActivityActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityActivityContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityComplaintActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityComplaintContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityRatingContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityRatingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CommunityRatingResultActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.NursingInstitutionForTheAgedContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyHourServiceOrderContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+        android:name=".activity.MyServicePackageOrderContentActivity"
+        android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyShopOrderContentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.MyFuKuanOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+        android:name=".activity.HealthyUserRecordActivity"
+        android:screenOrientation="portrait"/>
+        <activity
+        android:name=".activity.RetrievePasswordActivity"
+        android:screenOrientation="portrait"/>
+        <activity
+        android:name=".activity.PayActivity"
+        android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.UserInfoActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan"/>
+        <activity
+            android:name=".activity.HomeServiceContentActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.HealthyMeasureActivity"  android:screenOrientation="portrait">
+        </activity>
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="573c8e1967e58e2a750033e8" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="GUAN_FANG" />
+    </application>
+
+</manifest>

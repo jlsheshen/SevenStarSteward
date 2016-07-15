@@ -1,0 +1,50 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="148dp" >
+
+    <com.lib.shiguotao.view.ad.AdBaseGallery
+        android:id="@id/adbasegallery_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00000000"
+        android:fadingEdge="none"
+        android:unselectedAlpha="1" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="24dp"
+        android:layout_gravity="bottom" >
+
+        <!-- android:background="#90000000" -->
+
+        <RadioGroup
+            android:id="@id/adbasegallery_radioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingRight="5dp" >
+        </RadioGroup>
+
+        <!--
+             <TextView
+            android:id="@id/adbasegallery_picTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@id/adbasegallery_radioGroup"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:lines="1"
+            android:singleLine="true"
+            android:textColor="#ffffffff"
+            android:textSize="12sp" />
+        -->
+    </RelativeLayout>
+
+</FrameLayout>

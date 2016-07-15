@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79ff496daae4e469e7502acfeaabd1deddc720bb">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_39ad4d657faa9c25b4288207b3adbf233cef5ca4.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_0fe852fc4405d5c5a4374d13d39d45368a3ddb53.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_e8283b6414fae8be75be3281dbfbfcd7b1deda2f.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\ormlite-android-4.45.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="54eecb3fec979c79b354165c3c57d47e56ded705">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\ormlite-android-4.45_581fb93f70786f045f45275bcf550206735af146.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\ormlite-core-4.45.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7b6aebcb2f76684beb1e56dc2dce536c9e97f9ef">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\ormlite-core-4.45_10a49576a321f7d77f267ac079776084fff949ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\jl\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.13\40f60c83fac24f70d4c7c2a255dc9ad8e3749987\fastjson-1.2.13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40f60c83fac24f70d4c7c2a255dc9ad8e3749987">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\fastjson-1.2.13_88b8b96a0e288c160ab2fe684f13effc0a9689b0.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="66e14c8ac71fe9457ae1ff87a4468b7d40ac5972">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\instant-run_4ab2bb4aa1fc483fe416492dc52d3ad086a6772e.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5a3e8580763b136e10ab19dab850535a01734bd">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\instant-run-bootstrap_82d81f2d1d737d3c35b998d5560e7438a0e31222.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="874b82b95ea005695fe23e79b4f61cb79393f5b2">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\umeng-analytics-v5.4.2_4981aab376dd3b58b3248719200e37fdc9fd8d09.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\prolib2.12.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee3f64194dc5ab40849ecf6e77133a228ff01d76">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\prolib2.12_e8473cf303c4ba361df28138bf7c5366871d2ea4.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_62e37ab6ce5ba50ce5b9b30bdde48b2f2e712001.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\libs\xUtils-3.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60a64f9fe24d179f9d98e70bdfb68416389ee764">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\xUtils-3.2.2_c433d74db5d6702ad14b26b5794a292a0b81dfc1.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\alipaySdk-20160516.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5c2f451441de381c398bc8bf2b41dd0e85abea9">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\alipaySdk-20160516_9bde99416b0b91e8e7eb7cc819c072ebe2ba60a3.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\EZOpenSDK.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d373e60c9c50e6704b877937deeb8f6310ded1d">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\EZOpenSDK_bc3d17dd1a9aa50a897eaa70ca828c855a4b845c.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\jars\libs\volley.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c24b8a2366680319b73fe33a27614f004a914e48">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\volley_5cc283f9d92ade31e1dfbdd2ab3099759cd9dab7.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_9e7fb64276fcb73f9c3f6c1b35b0e8aad3506a5d.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_9c73fd496d7f1ea64a853630028bc64180934ff8.jar" />
+    </item>
+    <item
+        jar="E:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fd57ea405e00eb8e20e973229c9b8ae7fcd3efee.jar" />
+    </item>
+
+</items>

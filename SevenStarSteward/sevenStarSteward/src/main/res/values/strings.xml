@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">七星管家</string>
+    <string name="main_phone_number">tel:123456789</string>
+    <string name="press_once_finish">再按一次退出</string>
+
+</resources>

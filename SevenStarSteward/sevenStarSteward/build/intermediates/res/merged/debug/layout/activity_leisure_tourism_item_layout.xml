@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <ImageView
+             android:id="@+id/leisure_head_iv"
+            android:layout_width="84dp"
+            android:layout_height="89dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/activity_leisure_tourism_item_banner_icon" />
+
+        <TextView
+            android:id="@+id/leisure_title_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:text="周末周边旅游"
+            android:textColor="@color/_282828"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/main_background_color" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:id="@+id/leisure_tourism_item_one_iv"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/myicon" />
+
+            <TextView
+                android:id="@+id/leisure_tourism_item_one_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/leisure_tourism_item_one_iv"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/leisure_tourism_item_one_iv"
+                android:singleLine="true"
+                android:text="大连中美国际"
+                android:textColor="@color/_282828"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/main_background_color" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:id="@+id/leisure_tourism_item_two_iv"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/timeicon" />
+
+            <TextView
+                android:id="@+id/leisure_tourism_item_two_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/leisure_tourism_item_two_iv"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/leisure_tourism_item_two_iv"
+                android:singleLine="true"
+                android:text="2015年5月1日"
+                android:textColor="@color/_282828"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/main_background_color" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:id="@+id/leisure_tourism_item_three_iv"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/moneyicon" />
+
+            <TextView
+                android:id="@+id/leisure_tourism_item_three_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/leisure_tourism_item_three_iv"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/leisure_tourism_item_three_iv"
+                android:singleLine="true"
+                android:text="1999元"
+                android:textColor="@color/_282828"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/banner_main_top"
+        android:layout_width="fill_parent"
+        android:layout_height="52dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/_5F264F" >
+
+        <ImageButton
+            android:id="@id/banner_Base_activity_head_return_view"
+            android:layout_width="59dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/main_btn_back" />
+
+        <TextView
+            android:id="@id/banner_Base_activity_head_title_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/banner_Base_activity_head_right_view"
+            android:layout_toRightOf="@id/banner_Base_activity_head_return_view"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/banner_Base_activity_head_right_view"
+            android:layout_width="59dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@null" />
+
+        <TextView
+            android:id="@+id/banner_Base_activity_head_right_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/app_name"
+            android:textColor="@color/_dedede"
+            android:visibility="gone"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@id/banner_Base_activity_content_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/banner_main_top"
+        android:background="@color/white" >
+    </FrameLayout>
+
+</RelativeLayout>

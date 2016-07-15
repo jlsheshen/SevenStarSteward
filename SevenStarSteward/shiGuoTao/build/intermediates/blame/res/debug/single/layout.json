@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\tab_base_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\tab_base_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\adgallery_image.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\adgallery_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\other_info_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\other_info_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\tab_base_slide_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\tab_base_slide_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\custom_listview_footer.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\custom_listview_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\genera_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\genera_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading_anim_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\dialog_loading_anim_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\error_info_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\error_info_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\custom_listview_header.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\custom_listview_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\listview_data_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\listview_data_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\src\\main\\res\\layout\\umeng_bak_at_list_item.xml"
+    }
+]

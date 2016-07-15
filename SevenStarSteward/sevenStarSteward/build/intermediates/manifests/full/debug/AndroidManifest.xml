@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sevenstar.steward2016"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 接收短信权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <!-- 读取程序信息  IMEI -->
+    <uses-permission android:name="android.permission.READ0_PHONE_STATE" />
+    <!-- 手机读取权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.sevenstar.steward2016.StarApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sevenstar.steward2016.activity.PersonalCenterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.LiveServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.videogo.main.EzvizWebViewActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HourPointServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HolidayMealsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.NursingInstitutionForTheAgedActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MainActivityArrangeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ChildActivityArrangeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.LeisureTourismActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.VideoServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CleanKeepingCleanoutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.OverhaulServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.PrivateChefActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ChineseMedicinePhysiotherapyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.KickStarterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.RentInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.FeatureOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommodityInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ServiceForTheAgedActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.RegisterUserActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.TechnicianStraightTrystActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ShuttleServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HourPointContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HourPointContactActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CleaningOrderContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.SelectHouseTypeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.SelectCleanServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ShopContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyShopOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyServicePackageOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyHourServiceOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyActivityOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyTravelOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyHousekeeperActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyKeFuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyReleaseOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyBlackListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyCollectionListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyNeighbourActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityNewsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityNewsContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.ActivityContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.LeisureTourismContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.PrivateVideoContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.FestivalPackageContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyPingGuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyHeTongActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.sevenstar.steward2016.activity.ShowPdfAcitivty" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.AddFitnesUserActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityActivityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityActivityContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityComplaintActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityComplaintContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityRatingContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityRatingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.CommunityRatingResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.NursingInstitutionForTheAgedContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyHourServiceOrderContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyServicePackageOrderContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyShopOrderContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.MyFuKuanOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HealthyUserRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.RetrievePasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.PayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.UserInfoActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HomeServiceContentActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.sevenstar.steward2016.activity.HealthyMeasureActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="573c8e1967e58e2a750033e8" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="GUAN_FANG" />
+    </application>
+
+</manifest>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:duplicateParentState="true" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/home_background_color" >
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:divider="@null"
+            android:orientation="horizontal"
+            android:showDividers="middle" />
+
+        <View
+            android:id="@id/tab_base_layout_view_line"
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@android:id/tabs"
+            android:background="@color/home_background_color" />
+
+        <ImageView
+            android:id="@id/tab_base_layout_imageview_line"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/tab_base_layout_view_line"
+            android:contentDescription="@null"
+            android:scaleType="matrix"
+            android:src="@drawable/main_slide_line" />
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@id/tab_base_layout_view_line"
+            android:visibility="gone" />
+
+        <com.lib.shiguotao.view.CustomViewPager
+            android:id="@id/viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/tab_base_layout_imageview_line"
+            android:background="@color/white" />
+    </RelativeLayout>
+
+</TabHost>

@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_baojing_fuwu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_baojing_fuwu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_one_page_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_one_page_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_technician_straight_tryst_item_zhicheng_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_technician_straight_tryst_item_zhicheng_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleaning_content_dizhi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\cleaning_content_dizhi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\city_activity_arrange_quanzi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\city_activity_arrange_quanzi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gouxuan.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\gouxuan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_technician_item_dizhi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\about_technician_item_dizhi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_huodong_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_huodong_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleaning_content_jiantou_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\cleaning_content_jiantou_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_jiahao_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_jiahao_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_phone_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\home_phone_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_nainai_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_nainai_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\labelicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\labelicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_my_head_image_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\home_my_head_image_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jie_chu_jing_bao_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\jie_chu_jing_bao_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\happy_shop_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\happy_shop_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nursing_institution_for_the_aged_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\nursing_institution_for_the_aged_item_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_big_erzi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_big_erzi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zai_jia_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\zai_jia_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\safety_main_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\safety_main_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_net_runing_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\loading_net_runing_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_xiuxian_lvxing_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_xiuxian_lvxing_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_jiankang_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_jiankang_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bugouxuan.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\bugouxuan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_bottom_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\home_bottom_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_zhongdian_fuwu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_zhongdian_fuwu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_jieri_taocan_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_jieri_taocan_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\safety_kai_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\safety_kai_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_medicine_physiotherapy_item_yuyue_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\chinese_medicine_physiotherapy_item_yuyue_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_keeping_cleanout_richang_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\clean_keeping_cleanout_richang_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nursing_institution_for_the_aged_item_area_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\nursing_institution_for_the_aged_item_area_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_mama_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_mama_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_leisure_tourism_item_merchant_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_leisure_tourism_item_merchant_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hongwai_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hongwai_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\commodity_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\commodity_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\timeicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_kefu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_kefu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_three_page_icon_h.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_three_page_icon_h.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_two_page_icon_h.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_two_page_icon_h.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_fu_kuan.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_fu_kuan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_three_page_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_three_page_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shang_pin_xin_xi_happy_shop_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\shang_pin_xin_xi_happy_shop_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\moneyicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\moneyicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_jianhao_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_jianhao_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_yeye_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_yeye_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_technician_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\about_technician_item_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kick_starter_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\kick_starter_item_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jie_ri_fu_qin_jie_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\jie_ri_fu_qin_jie_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleaning_content_shebei_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\cleaning_content_shebei_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_shipin_fuwu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_shipin_fuwu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_shoucang_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_shoucang_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\myicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\myicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleaning_content_yaoqiu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\cleaning_content_yaoqiu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_big_nver_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_big_nver_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feature_order_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\feature_order_item_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guanjiafuwq_home.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\guanjiafuwq_home.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleaning_content_time_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\cleaning_content_time_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_siren_chushi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_siren_chushi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_add_user_jian_tou_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_add_user_jian_tou_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_dingdan_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_dingdan_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shui_mian_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\shui_mian_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_keeping_cleanout_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\clean_keeping_cleanout_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yangan_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\yangan_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_heimingdan_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_heimingdan_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\city_activity_arrange_gongyi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\city_activity_arrange_gongyi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_zhongyi_liliao_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_zhongyi_liliao_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\locatetheicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\locatetheicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shi_ping_safety_icon.jpg",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\shi_ping_safety_icon.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_technician_item_zhiye_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\about_technician_item_zhiye_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_set_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_set_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jie_ri_tao_can_yu_yue_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\jie_ri_tao_can_yu_yue_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_baba_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_baba_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\li_jia_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\li_jia_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zu_yong_xin_xi_happy_shop_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\zu_yong_xin_xi_happy_shop_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nursing_institution_for_the_aged_item_money_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\nursing_institution_for_the_aged_item_money_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_leisure_tourism_item_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_leisure_tourism_item_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\city_activity_arrange_city_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\city_activity_arrange_city_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhuang_tai_shua_xin_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\zhuang_tai_shua_xin_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yanglaofuwu_home.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\yanglaofuwu_home.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_arrange_child_item_time_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_arrange_child_item_time_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_jinlin_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_jinlin_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shenghuofuwu_home.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\shenghuofuwu_home.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\happy_shop_main_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\happy_shop_main_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\home_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lacatetheicon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\lacatetheicon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot_n.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\dot_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_keeping_cleanout_shendu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\clean_keeping_cleanout_shendu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\my_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\safety_guan_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\safety_guan_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fitness_laibingnv_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\fitness_laibingnv_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sa_bu_fang_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\sa_bu_fang_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_zhanghu_info_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_zhanghu_info_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_video_service_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_video_service_item_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_four_page_icon_h.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_four_page_icon_h.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_huodong_anpai_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_huodong_anpai_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_technician_straight_tryst_item_didian_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_technician_straight_tryst_item_didian_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_jiesong_fuwu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_jiesong_fuwu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhong_chou_ping_tai_happy_shop_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\zhong_chou_ping_tai_happy_shop_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_xingcheng_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_xingcheng_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_baojie_qingxi_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_baojie_qingxi_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nursing_institution_for_the_aged_item_phone_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\nursing_institution_for_the_aged_item_phone_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hour_point_service_jianxiu_fuwu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\hour_point_service_jianxiu_fuwu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jing_bao_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\jing_bao_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\live_service_yanglao_jigou_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\live_service_yanglao_jigou_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_btn_back.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\main_btn_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_four_page_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_four_page_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_two_page_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_two_page_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_keeping_cleanout_xinkaihuang_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\clean_keeping_cleanout_xinkaihuang_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_technician_straight_tryst_item_jibie_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_technician_straight_tryst_item_jibie_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_icon_lunbo_pressed.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tuijian_icon_lunbo_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_fabu_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_fabu_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\holiday_meals_banner_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\holiday_meals_banner_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot_s.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\dot_s.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kai_guan_safety_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\kai_guan_safety_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhanyifuwu_home.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\zhanyifuwu_home.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feature_order_item_site_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\feature_order_item_site_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_my_guanjia_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_my_guanjia_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_technician_straight_tryst_serch_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_technician_straight_tryst_serch_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_one_page_icon_h.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\tab_one_page_icon_h.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\te_se_ding_gou_happy_shop_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\te_se_ding_gou_happy_shop_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\password_yangjing_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\password_yangjing_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_center_head_image_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\personal_center_head_image_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menci_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\menci_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activity_arrange_child_item_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\drawable-xhdpi\\activity_arrange_child_item_icon.png"
+    }
+]

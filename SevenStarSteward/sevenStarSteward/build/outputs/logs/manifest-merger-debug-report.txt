@@ -1,0 +1,644 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:2:1-281:12
+	package
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:7:5-9:40
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:11:5-75
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:12:5-68
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:13:5-67
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:13:5-67
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:14:5-68
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:15:5-79
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:15:5-79
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:16:5-75
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.CAMERA
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:17:5-65
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:18:5-71
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:18:22-68
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:19:5-84
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:20:5-81
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:20:5-81
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:21:5-75
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:21:5-75
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:40:5-75
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:22:5-76
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:22:5-76
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:23:5-76
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:23:5-76
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:24:5-68
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:25:5-78
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:26:5-79
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:29:5-78
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:33:5-85
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:33:22-83
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:36:5-79
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:36:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:37:5-68
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:41:5-69
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:37:22-66
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:39:5-69
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:36:5-70
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:39:22-67
+uses-permission#android.permission.READ0_PHONE_STATE
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:41:5-75
+MERGED from [SevenStarSteward3:shiGuoTao:unspecified] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\SevenStarSteward3\shiGuoTao\unspecified\AndroidManifest.xml:38:5-76
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:41:22-73
+application
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:45:5-279:19
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:50:9-45
+	android:label
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:49:9-41
+	android:allowBackup
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:48:9-38
+	android:theme
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:51:9-62
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:46:9-40
+activity#com.sevenstar.steward2016.activity.MainActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:52:9-62:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:54:13-45
+	android:launchMode
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:53:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:58:17-68
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:60:27-74
+activity#com.sevenstar.steward2016.activity.PersonalCenterActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:63:9-65:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:64:13-60
+activity#com.sevenstar.steward2016.activity.LiveServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:66:9-68:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:67:13-57
+activity#com.videogo.main.EzvizWebViewActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:71:13-63
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:70:13-65
+activity#com.sevenstar.steward2016.activity.HourPointServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:74:9-76:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:75:13-62
+activity#com.sevenstar.steward2016.activity.HolidayMealsActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:77:9-79:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:78:13-58
+activity#com.sevenstar.steward2016.activity.NursingInstitutionForTheAgedActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:80:9-82:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:81:13-74
+activity#com.sevenstar.steward2016.activity.MainActivityArrangeActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:83:9-85:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:84:13-65
+activity#com.sevenstar.steward2016.activity.ChildActivityArrangeActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:86:9-88:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:87:13-66
+activity#com.sevenstar.steward2016.activity.LeisureTourismActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:89:9-91:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:90:13-60
+activity#com.sevenstar.steward2016.activity.VideoServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:92:9-94:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:93:13-58
+activity#com.sevenstar.steward2016.activity.CleanKeepingCleanoutActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:95:9-97:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:96:13-66
+activity#com.sevenstar.steward2016.activity.OverhaulServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:98:9-100:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:99:13-61
+activity#com.sevenstar.steward2016.activity.PrivateChefActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:101:9-103:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:102:13-57
+activity#com.sevenstar.steward2016.activity.ChineseMedicinePhysiotherapyActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:104:9-106:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:105:13-74
+activity#com.sevenstar.steward2016.activity.KickStarterActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:107:9-109:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:108:13-57
+activity#com.sevenstar.steward2016.activity.RentInfoActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:110:9-112:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:111:13-54
+activity#com.sevenstar.steward2016.activity.FeatureOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:113:9-115:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:114:13-58
+activity#com.sevenstar.steward2016.activity.CommodityInfoActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:116:9-118:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:117:13-59
+activity#com.sevenstar.steward2016.activity.ServiceForTheAgedActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:119:9-121:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:120:13-63
+activity#com.sevenstar.steward2016.activity.LoginActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:122:9-124:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:123:13-51
+activity#com.sevenstar.steward2016.activity.RegisterUserActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:125:9-128:56
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:127:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:128:13-54
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:126:13-58
+activity#com.sevenstar.steward2016.activity.TechnicianStraightTrystActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:129:9-131:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:130:13-69
+activity#com.sevenstar.steward2016.activity.ShuttleServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:132:9-134:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:133:13-60
+activity#com.sevenstar.steward2016.activity.HourPointContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:135:9-137:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:136:13-62
+activity#com.sevenstar.steward2016.activity.HourPointContactActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:138:9-140:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:139:13-62
+activity#com.sevenstar.steward2016.activity.CleaningOrderContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:141:9-143:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:143:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:142:13-66
+activity#com.sevenstar.steward2016.activity.SelectHouseTypeActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:144:9-146:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:145:13-61
+activity#com.sevenstar.steward2016.activity.SelectCleanServiceActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:147:9-149:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:149:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:148:13-64
+activity#com.sevenstar.steward2016.activity.ShopContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:150:9-152:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:152:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:151:13-57
+activity#com.sevenstar.steward2016.activity.MyOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:153:9-155:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:154:13-53
+activity#com.sevenstar.steward2016.activity.MyShopOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:156:9-158:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:157:13-57
+activity#com.sevenstar.steward2016.activity.MyServicePackageOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:159:9-161:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:160:13-67
+activity#com.sevenstar.steward2016.activity.MyHourServiceOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:162:9-164:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:163:13-64
+activity#com.sevenstar.steward2016.activity.MyActivityOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:165:9-167:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:166:13-61
+activity#com.sevenstar.steward2016.activity.MyTravelOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:168:9-170:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:170:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:169:13-59
+activity#com.sevenstar.steward2016.activity.MyHousekeeperActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:171:9-173:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:173:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:172:13-59
+activity#com.sevenstar.steward2016.activity.MyKeFuActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:174:9-176:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:175:13-52
+activity#com.sevenstar.steward2016.activity.MyReleaseOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:177:9-179:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:178:13-60
+activity#com.sevenstar.steward2016.activity.MyBlackListActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:180:9-182:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:181:13-57
+activity#com.sevenstar.steward2016.activity.MyCollectionListActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:183:9-185:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:185:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:184:13-62
+activity#com.sevenstar.steward2016.activity.MyNeighbourActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:186:9-188:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:187:13-57
+activity#com.sevenstar.steward2016.activity.CommunityNewsActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:189:9-191:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:191:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:190:13-59
+activity#com.sevenstar.steward2016.activity.CommunityNewsContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:192:9-194:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:194:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:193:13-66
+activity#com.sevenstar.steward2016.activity.ActivityContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:195:9-197:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:197:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:196:13-61
+activity#com.sevenstar.steward2016.activity.LeisureTourismContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:198:9-200:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:200:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:199:13-67
+activity#com.sevenstar.steward2016.activity.PrivateVideoContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:201:9-203:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:203:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:202:13-65
+activity#com.sevenstar.steward2016.activity.FestivalPackageContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:204:9-206:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:206:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:205:13-68
+activity#com.sevenstar.steward2016.activity.MyPingGuActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:207:9-209:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:209:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:208:13-54
+activity#com.sevenstar.steward2016.activity.MyHeTongActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:210:9-212:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:212:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:211:13-54
+activity#com.sevenstar.steward2016.activity.ShowPdfAcitivty
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:213:9-61
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:213:19-59
+activity#com.sevenstar.steward2016.activity.AddFitnesUserActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:214:9-216:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:216:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:215:13-59
+activity#com.sevenstar.steward2016.activity.CommunityActivityActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:217:9-219:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:219:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:218:13-63
+activity#com.sevenstar.steward2016.activity.CommunityActivityContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:220:9-222:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:222:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:221:13-70
+activity#com.sevenstar.steward2016.activity.CommunityComplaintActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:223:9-225:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:224:13-64
+activity#com.sevenstar.steward2016.activity.CommunityComplaintContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:226:9-228:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:227:13-71
+activity#com.sevenstar.steward2016.activity.CommunityRatingContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:229:9-231:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:230:13-68
+activity#com.sevenstar.steward2016.activity.CommunityRatingActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:232:9-234:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:234:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:233:13-61
+activity#com.sevenstar.steward2016.activity.CommunityRatingResultActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:235:9-237:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:237:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:236:13-67
+activity#com.sevenstar.steward2016.activity.NursingInstitutionForTheAgedContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:238:9-240:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:239:13-81
+activity#com.sevenstar.steward2016.activity.MyHourServiceOrderContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:241:9-243:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:243:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:242:13-71
+activity#com.sevenstar.steward2016.activity.MyServicePackageOrderContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:244:9-246:47
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:246:9-45
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:245:9-70
+activity#com.sevenstar.steward2016.activity.MyShopOrderContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:247:9-249:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:249:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:248:13-64
+activity#com.sevenstar.steward2016.activity.MyFuKuanOrderActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:250:9-252:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:252:13-49
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:251:13-59
+activity#com.sevenstar.steward2016.activity.HealthyUserRecordActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:253:9-255:47
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:255:9-45
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:254:9-59
+activity#com.sevenstar.steward2016.activity.RetrievePasswordActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:256:9-258:47
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:258:9-45
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:257:9-58
+activity#com.sevenstar.steward2016.activity.PayActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:259:9-261:47
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:261:9-45
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:260:9-45
+activity#com.sevenstar.steward2016.activity.UserInfoActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:262:9-265:66
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:264:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:265:13-64
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:263:13-54
+activity#com.sevenstar.steward2016.activity.HomeServiceContentActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:266:9-269:51
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:269:13-49
+	android:hardwareAccelerated
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:268:13-47
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:267:13-64
+activity#com.sevenstar.steward2016.activity.HealthyMeasureActivity
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:270:9-271:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:270:68-104
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:270:19-66
+meta-data#UMENG_APPKEY
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:272:9-275:21
+	android:value
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:274:13-53
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:273:13-40
+meta-data#UMENG_CHANNEL
+ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:276:9-278:41
+	android:value
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:278:13-38
+	android:name
+		ADDED from F:\AndroidStudioData\SevenStarSteward3\sevenStarSteward\src\main\AndroidManifest.xml:277:13-41

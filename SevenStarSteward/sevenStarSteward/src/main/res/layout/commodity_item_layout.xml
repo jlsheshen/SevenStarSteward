@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/main_background_color"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/commodity_image_one_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="190dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:src="@drawable/commodity_icon" />
+
+        <TextView
+            android:id="@+id/commodity_title_one_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="商品1"
+            android:textColor="@color/_282828"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/commodity_money_one_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="￥100.36"
+            android:textColor="@color/_5F264F"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1px"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/commodity_image_two_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="190dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:src="@null" />
+
+        <TextView
+            android:id="@+id/commodity_title_two_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:textColor="@color/_282828"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/commodity_money_two_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:textColor="@color/_5F264F"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

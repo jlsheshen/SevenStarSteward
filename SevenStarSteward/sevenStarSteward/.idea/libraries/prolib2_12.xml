@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prolib2.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../shiGuoTao/libs/prolib2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\back02.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\back02.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error_dialog_backgroup.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\error_dialog_backgroup.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_border_white_rectangle_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_border_white_rectangle_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\doc.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\doc.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_layout_confirm_button_background_selector.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_layout_confirm_button_background_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\back01.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\back01.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\pdf.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_bar_loaded.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_bar_loaded.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\right_arrow.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_loding_anim_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_loding_anim_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\folder.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bule_rectangle_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\bule_rectangle_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_fillet_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_fillet_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\left_arrow.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bule_rectangle_drawable_h.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\bule_rectangle_drawable_h.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_fillet_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\black_fillet_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_out.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_in.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_rectangle_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_rectangle_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_layout_cancel_button_background_selector.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_layout_cancel_button_background_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\transparent_drawable.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\transparent_drawable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\shiGuoTao\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    }
+]

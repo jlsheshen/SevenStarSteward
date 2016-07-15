@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_right.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_clam.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_clam.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_left.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_left.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

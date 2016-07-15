@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 通用 Layout ID -->
+    <item name="viewpager" type="id"/>
+    <item name="listview" type="id"/>
+    <item name="main_view_line" type="id"/>
+
+    <!-- 通用Dialog布局中的id -->
+    <item name="genera_dialog_layout_prompt_text" type="id"/>
+    <item name="genera_dialog_layout_line_iv" type="id"/>
+    <item name="genera_dialog_layout_content_text" type="id"/>
+    <item name="genera_dialog_layout_cancel_button" type="id"/>
+    <item name="genera_dialog_layout_confirm_button" type="id"/>
+    <!-- AdBaseGallery 广告Banner 布局中的ID -->
+    <item name="adbasegallery_radioGroup" type="id"/>
+    <item name="adbasegallery_picTitle" type="id"/>
+    <item name="adbasegallery_gallery" type="id"/>
+    <!-- BannerBaseActivity 布局中的ID -->
+    <item name="banner_Base_activity_head_title_tv" type="id"/>
+    <item name="banner_Base_activity_head_return_view" type="id"/>
+    <item name="banner_Base_activity_head_layout" type="id"/>
+    <item name="banner_Base_activity_content_layout" type="id"/>
+    <!-- 自定义ListView Footer 布局中的ID -->
+    <item name="listview_footer_content_layout" type="id"/>
+    <item name="listview_footer_loading_info_tv" type="id"/>
+    <item name="listview_head_content_layout" type="id"/>
+    <item name="listview_head_refresh_info_tv" type="id"/>
+    <item name="listview_head_refresh_progressbar" type="id"/>
+    <item name="listview_head_refresh_image_iv" type="id"/>
+    <!-- tab_base_layout 布局中的ID -->
+    <item name="tab_base_layout_view_line" type="id"/>
+    <item name="tab_base_layout_imageview_line" type="id"/>
+    <!-- 左右滑动布局中的ID -->
+    <item name="id_drawerLayout" type="id"/>
+    <item name="view_line" type="id"/>
+    <item name="class_sub_tab_horizontal_scrollview" type="id"/>
+    <!-- error dialog ids -->
+    <item name="error_dialog_layout_ti_shi_tv" type="id"/>
+    <item name="error_dialog_layout_content_tv" type="id"/>
+    <item name="error_dialog_layout_comfirm_tv" type="id"/>
+
+</resources>

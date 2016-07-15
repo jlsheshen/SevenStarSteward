@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\measure_indicator.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\measure_indicator.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_security.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_security.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_video.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_video.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_choose_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\camera_choose_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exit_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\exit_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_register.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_register.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_splash.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_splash.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\history_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_history.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_login.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_login.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_zoom_image.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_zoom_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_healthy.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_healthy.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_choose_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\camera_choose_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_add_mumber.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_add_mumber.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_measure.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_measure.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alert_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aty_healthy_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\bundles\\debug\\res\\layout\\aty_healthy_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\TCKJ\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    }
+]

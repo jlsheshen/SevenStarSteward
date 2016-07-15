@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主背景颜色 -->
+    <color name="home_background_color">#dedede</color>
+    
+    <!-- 白色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_7f">#7FFFFFFF</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <!--
+    <color name="black_555555">#555555</color>
+    <color name="black_777777">#777777</color>
+    <color name="black_a3a6a7">#a3a6a7</color>
+    <color name="black_f5f7f7">#f5f7f7</color>
+    <color name="black_868686">#868686</color>
+    <color name="black_cfcfcf">#cfcfcf</color>
+    <color name="black_a9acab">#a9acab</color>
+    <color name="black_dae2e5">#dae2e5</color>
+    -->
+
+
+    <!-- 蓝色 -->
+    <color name="blue">#36bff0</color>
+    <color name="blue_h">#52bae1</color>
+    <!-- 红色 -->
+    <color name="red">#ff0000</color>
+    <color name="red_f25a59">#f25a59</color>
+    <color name="red_ef5d5b">#ef5d5b</color>
+    <!-- 橙色 -->
+    <color name="orange_background">#ffc168</color>
+    <color name="orange_text_color">#f08437</color>
+
+    <!-- 其他色值 -->
+    <color name="_dedede">#dedede</color>
+    <color name="_e9e9e9">#e9e9e9</color>
+    <color name="_555555">#555555</color>
+    <color name="_777777">#777777</color>
+    <color name="_969696">#969696</color>
+    <color name="_999999">#999999</color>
+     <color name="_868686">#868686</color>
+     <color name="_cfcfcf">#cfcfcf</color>
+     <color name="_7d7d7d">#7D7D7D</color>
+
+</resources>

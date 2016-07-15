@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:duplicateParentState="true" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/home_background_color" >
+
+        <HorizontalScrollView
+            android:id="@id/class_sub_tab_horizontal_scrollview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@color/white"
+            android:scrollbars="none" >
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:background="@android:color/transparent"
+                    android:divider="@null"
+                    android:orientation="horizontal"
+                    android:showDividers="middle" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_gravity="bottom"
+                    android:background="@color/home_background_color" />
+
+                <ImageView
+                    android:id="@id/tab_base_layout_imageview_line"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:contentDescription="@null"
+                    android:scaleType="matrix"
+                    android:src="@drawable/main_slide_line" />
+            </FrameLayout>
+        </HorizontalScrollView>
+
+        <RelativeLayout
+            android:id="@+id/ad_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/class_sub_tab_horizontal_scrollview"
+            android:background="@color/white"
+            android:paddingTop="2dp" />
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@id/ad_layout"
+            android:visibility="gone" />
+
+        <com.lib.shiguotao.view.CustomViewPager
+            android:id="@id/viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/ad_layout"
+            android:background="@color/white" />
+    </RelativeLayout>
+
+</TabHost>

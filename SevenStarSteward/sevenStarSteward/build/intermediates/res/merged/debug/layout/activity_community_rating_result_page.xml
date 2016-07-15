@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/home_background_color"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="第一名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/home_background_color"/>
+
+        <TextView
+            android:id="@+id/content_tv_one"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="姓名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+
+    <FrameLayout android:layout_width="match_parent"
+                 android:layout_height="120dp"
+                 android:layout_marginTop="1dp"
+                 android:background="@color/white">
+        <ImageView
+            android:id="@+id/head_image_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+        >
+        </ImageView>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="第二名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/home_background_color"/>
+
+        <TextView
+            android:id="@+id/content_tv_two"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="姓名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+
+    <FrameLayout android:layout_width="match_parent"
+                 android:layout_height="120dp"
+                 android:layout_marginTop="1dp"
+                 android:background="@color/white">
+        <ImageView
+            android:id="@+id/head_image_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+        >
+        </ImageView>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="第三名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/home_background_color"/>
+
+        <TextView
+            android:id="@+id/content_tv_three"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="姓名"
+            android:textColor="@color/_282828"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+
+    <FrameLayout android:layout_width="match_parent"
+                 android:layout_height="120dp"
+                 android:layout_marginTop="1dp"
+                 android:background="@color/white">
+    <ImageView
+        android:id="@+id/head_image_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+    >
+    </ImageView>
+    </FrameLayout>
+</LinearLayout>

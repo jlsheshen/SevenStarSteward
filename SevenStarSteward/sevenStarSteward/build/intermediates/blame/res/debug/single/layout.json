@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_shop_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_shop_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_house_type_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_select_house_type_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_center.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_personal_center.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_service_content_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_home_service_content_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_arrange_main_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_activity_arrange_main_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\banner_activity_base.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\banner_activity_base.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\house_type_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\house_type_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\personal_center_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\personal_center_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leisure_tourism_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_leisure_tourism_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_clean_service_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\select_clean_service_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hour_point_contact_info_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_hour_point_contact_info_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_service_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_video_service_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\about_technician_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\about_technician_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_for_the_aged_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_service_for_the_aged_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_festival_package_content_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_festival_package_content_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_child_activity_arrange_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_child_activity_arrange_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kick_starter_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_kick_starter_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_activity_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_activity_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve_password_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_retrieve_password_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\kick_starter_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\kick_starter_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\date_time_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nursing_institution_for_the_aged_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_nursing_institution_for_the_aged_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_content_activity_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_content_activity_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\community_news_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\community_news_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_activity_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_activity_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\commodity_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_healthy_measure_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_healthy_measure_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_service_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_video_service_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_fu_kuan_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_fu_kuan_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leisure_tourism_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_leisure_tourism_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comodity_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_comodity_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_fitness_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_add_fitness_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_private_chef_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_private_chef_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overhaul_service_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_overhaul_service_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\technician_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\technician_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_service_package_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_service_package_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_fukuan_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_fukuan_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cleaning_order_content_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_cleaning_order_content_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_order_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_feature_order_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_black_list_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_black_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\tab_base_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\tab_base_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_login_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hour_point_content_info_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_hour_point_content_info_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\community_activity_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\community_activity_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_neighbour_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_neighbour_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_house_type_item_two.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\select_house_type_item_two.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_hour_service_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_hour_service_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_list_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_collection_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\show_pdf_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\show_pdf_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\listview_data_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\listview_data_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nursing_institution_for_the_aged_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_nursing_institution_for_the_aged_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_activity_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_activity_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\single_dialog_layout_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\single_dialog_layout_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\start_date_and_end_date_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\start_date_and_end_date_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leisure_tourism_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_leisure_tourism_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_healthy_user_record_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_healthy_user_record_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_housekeeper_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_housekeeper_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_fitness_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fragment_main_fitness_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_festival_package_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_festival_package_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\holiday_meals_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\holiday_meals_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_release_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_release_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\clean_order_input_content_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\clean_order_input_content_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\custom_listview_footer.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\custom_listview_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fitness_family_members_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fitness_family_members_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fitness_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fitness_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\adgallery_hellper.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\adgallery_hellper.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\tab_base_slide_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\tab_base_slide_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_user_info_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_release_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_release_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_home_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fragment_main_home_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\chinese_medicine_physiotherapy_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\chinese_medicine_physiotherapy_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\load_data_error_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\load_data_error_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_huor_point_service_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_huor_point_service_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_shop_order_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_shop_order_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_live_service_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_live_service_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_rating_result_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_rating_result_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\nursing_institution_for_the_aged_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\nursing_institution_for_the_aged_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_clean_service_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_select_clean_service_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\custom_listview_header.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\custom_listview_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\service_for_the_aged_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\service_for_the_aged_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_news_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_news_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\feature_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\feature_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\safety_main_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\safety_main_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_service_package_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_service_package_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shop_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_shop_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_kefu_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_kefu_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_register_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arrange_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_arrange_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fitness_head_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fitness_head_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_travel_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_travel_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_collection_list_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_collection_list_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_shop_order_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_shop_order_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_hour_service_order_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_hour_service_order_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\rent_info_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\rent_info_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_technician_straight_tryst_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_technician_straight_tryst_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fragmnt_main_happy_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fragmnt_main_happy_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\happy_shop_main_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\happy_shop_main_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\adgallery_image.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\adgallery_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_rating_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_rating_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_he_tong_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_he_tong_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_ping_gu_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_ping_gu_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\other_info_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\other_info_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\adgallery_hellper_two.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\adgallery_hellper_two.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\overhaul_service_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\overhaul_service_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_travel_order_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_travel_order_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rent_info_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_rent_info_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_holiday_meals_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_holiday_meals_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_keeping_cleanout_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_clean_keeping_cleanout_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\private_chef_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\private_chef_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\error_info_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\error_info_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\select_province_or_city_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\select_province_or_city_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\genera_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\genera_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shuttle_service_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_shuttle_service_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\my_ping_gu_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\my_ping_gu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_black_list_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_black_list_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_complaint_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_complaint_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_service_package_order_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_my_service_package_order_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_private_video_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_private_video_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_news_content_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_news_content_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arrange_child_item_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_arrange_child_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community_activity_page.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_community_activity_page.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chinese_medicine_physiotherapy_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\activity_chinese_medicine_physiotherapy_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\set_time_dialog_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\set_time_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_safety_pager.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\src\\main\\res\\layout\\fragment_main_safety_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading_anim_layout.xml",
+        "source": "F:\\AndroidStudioData\\SevenStarSteward3\\sevenStarSteward\\build\\intermediates\\exploded-aar\\SevenStarSteward3\\shiGuoTao\\unspecified\\res\\layout\\dialog_loading_anim_layout.xml"
+    }
+]

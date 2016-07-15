@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/home_background_color"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/community_news_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="社区新闻"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/community_activity_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="社区活动"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/community_complaint_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="社区投诉"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/community_rating_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="社区评比"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+</LinearLayout>

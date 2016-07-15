@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SevenStarSteward.iml" filepath="$PROJECT_DIR$/../SevenStarSteward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TCKJ/TCKJ.iml" filepath="$PROJECT_DIR$/../TCKJ/TCKJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sevenStarSteward.iml" filepath="$PROJECT_DIR$/sevenStarSteward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiGuoTao/shiGuoTao.iml" filepath="$PROJECT_DIR$/../shiGuoTao/shiGuoTao.iml" />
+    </modules>
+  </component>
+</project>

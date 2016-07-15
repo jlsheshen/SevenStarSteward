@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">shiGuoTao</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 通用 genera Dialog 显示信息 -->
+    <!-- 标题提示 -->
+    <string name="genera_prompt_text_info">提示:</string>
+
+    <!-- 自定义 ListView 相关文字 -->
+    <string name="custom_listview_footer_loading_info">正在加载&#8230;</string>
+    <!-- 自定义ListView head头部描述 -->
+    <string name="custom_listview_head_normal_info">下拉刷新</string>
+    <string name="custom_listview_head_info_ok">刷新成功</string>
+    <string name="custom_listview_head_ready_info">松开刷新数据</string>
+    <string name="custom_listview_head_info_error">刷新失败</string>
+    <string name="custom_listview_head_runing_refresh_info">刷新中&#8230;</string>
+    <string name="custom_listview_head_update_time_info">上次更新时间：</string>
+
+    <!-- 下载提示 -->
+    <string name="not_wifi_down_runing_dialog_info">当前不是Wi-Fi网络,下载%1$s将产生流量费用(具体资费情况请咨询当地运营商),确认继续下在吗?</string>
+    <string name="not_net_down_toast_info">没有开启网络,开启网络后再试&#8230;</string>
+    <string name="storage_control_problem_toast_info">储存空间不足，请清理多余文件后再试&#8230;</string>
+
+    <!-- 下载状态 -->
+    <string name="download_init_text">下载</string>
+    <string name="download_pause_text">暂停</string>
+    <string name="download_running_text">正在下载</string>
+    <string name="download_success_text">下载成功</string>
+    <string name="download_failure_text">下载失败</string>
+    <string name="download_update_text">更新</string>
+    <string name="download_open_text">打开</string>
+    <string name="download_install_runing_text">安装中</string>
+
+</resources>

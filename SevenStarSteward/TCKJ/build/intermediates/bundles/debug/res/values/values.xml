@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <declare-styleable name="MeasureIndicator"><attr format="float" name="left_max_count"/><attr format="float" name="right_max_count"/></declare-styleable>
+    <declare-styleable name="MyImageView"><attr format="dimension" name="stroke"/><attr format="string" name="color_"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_padding">40dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom_line_height">60dp</dimen>
+    <dimen name="bottom_line_width">140dp</dimen>
+    <dimen name="icon_size">120dp</dimen>
+    <dimen name="measure_icon_size">180dp</dimen>
+    <dimen name="measure_name_size">50sp</dimen>
+    <dimen name="ok_height">60dp</dimen>
+    <dimen name="ok_width">200dp</dimen>
+    <dimen name="system_default_text_size">40sp</dimen>
+    <dimen name="title2_margin_title">30dp</dimen>
+    <dimen name="user_icon_size">40dp</dimen>
+    <integer name="slideAnimTime">200</integer>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">七星管家</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">History</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="add_item_detail_style" parent="android:Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="add_item_title_style" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+    <style name="aty_healthy_list_title" parent="android:Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">60sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="aty_healthy_list_title2" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="bottom_button_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="exit_dialog_button">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">100dp</item>
+    </style>
+    <style name="exit_dialog_style" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/exit_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="exit_dialog_title" parent="android:Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">60sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">80dp</item>
+    </style>
+    <style name="large_text_style" parent="android:Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="normal_text_style" parent="android:Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>

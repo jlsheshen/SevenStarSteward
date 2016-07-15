@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/home_background_color"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/shop_order_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="商品订单"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/hour_point_order_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="钟点服务订单"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/service_order_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="服务套餐订单"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/my_pinggu_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="我的评估"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/my_hetong_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="我的合同"
+        android:textColor="@color/_282828"
+        android:textSize="16sp" />
+
+</LinearLayout>

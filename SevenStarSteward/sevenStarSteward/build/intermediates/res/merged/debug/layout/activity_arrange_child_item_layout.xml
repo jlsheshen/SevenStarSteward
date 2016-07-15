@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/activity_head_iv"
+            android:layout_width="84dp"
+            android:layout_height="89dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/activity_arrange_child_item_icon" />
+
+        <TextView
+            android:id="@+id/activity_title_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:text="大连一方足球赛"
+            android:textColor="@color/_7d7d7d"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/main_background_color" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/activity_time_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="时间:\t2015年5月1日"
+            android:textColor="@color/_7d7d7d"
+            android:textSize="16sp" />
+
+        <TextView
+             android:id="@+id/activity_place_tv"
+            android:layout_width="fill_parent"
+             android:layout_height="0dp"
+             android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="地点:\t大连市沙河口区"
+            android:textColor="@color/_7d7d7d"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/activity_price_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="价格:\t1999元"
+            android:textColor="@color/_7d7d7d"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="更多信息......"
+            android:textColor="@color/_7d7d7d"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/activity_submit_bt"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:background="@color/_5F264F"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="立即参与"
+            android:visibility="gone"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>

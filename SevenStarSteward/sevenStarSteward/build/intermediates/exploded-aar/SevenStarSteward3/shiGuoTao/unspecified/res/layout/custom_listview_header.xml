@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:id="@id/listview_head_content_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp" >
+
+        <TextView
+            android:id="@id/listview_head_refresh_info_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/custom_listview_head_normal_info"
+            android:textColor="@color/_969696"
+            android:textSize="14sp" />
+
+        <FrameLayout
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:layout_toLeftOf="@id/listview_head_refresh_info_tv" >
+
+            <ProgressBar
+                android:id="@id/listview_head_refresh_progressbar"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:indeterminate="true"
+                android:indeterminateDrawable="@drawable/progress_bar_loaded"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@id/listview_head_refresh_image_iv"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:contentDescription="@null"
+                android:src="@drawable/refresh_arrow" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</merge>

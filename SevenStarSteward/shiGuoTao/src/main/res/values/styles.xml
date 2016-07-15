@@ -1,0 +1,62 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- DiaLog样式 -->
+    <style name="custom_dialog_style" parent="@android:style/Theme.Holo.DialogWhenLarge.NoActionBar" tools:ignore="NewApi">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+    </style>
+
+    <!-- Activity  从下往上 逐渐显示和从上到下逐渐消失动画样式 -->
+    <style name="activity_down_up_get_info_and_exit_animation" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/from_the_bottom_up_animation_show</item>
+        <item name="@android:windowExitAnimation">@anim/from_top_to_down_animation_exit</item>
+    </style>
+
+    <!-- Activity 透明样式 -->
+    <style name="activity_background_translucent" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="dialogWindowAnim" mce_bogus="1" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_anim</item>
+    </style>
+
+    <!-- 自定义CheckBox样式 -->
+    <!--
+        <style name="CustomAllCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/all_checkbox_drawable_selector</item>
+    </style>
+
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/recharge_selete_back_icon_h" android:state_checked="true"/>
+        <item android:drawable="@drawable/recharge_selete_back_icon" android:state_checked="false"/>
+        <item android:drawable="@drawable/recharge_selete_back_icon"/>
+    </selector>
+    -->
+    <!-- Activity 进入 退出样式 -->
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/push_left_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/push_right_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_right_out</item>
+    </style>
+
+    <style name="pushWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_left_in</item>
+        <item name="android:windowExitAnimation">@anim/push_right_out</item>
+    </style>
+
+</resources>

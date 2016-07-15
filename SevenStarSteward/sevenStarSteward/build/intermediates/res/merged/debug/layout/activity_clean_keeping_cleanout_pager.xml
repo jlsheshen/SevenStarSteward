@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background_color"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/clean_keeping_cleanout_head_imageview"
+        android:layout_width="fill_parent"
+        android:layout_height="160dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/clean_keeping_cleanout_banner_icon" />
+
+    <ImageView
+        android:id="@+id/clean_keeping_cleanout_richang_imageview"
+        android:layout_width="fill_parent"
+        android:layout_height="78dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:src="@drawable/clean_keeping_cleanout_richang_icon" />
+
+    <ImageView
+        android:id="@+id/clean_keeping_cleanout_shendu_imageview"
+        android:layout_width="fill_parent"
+        android:layout_height="78dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:src="@drawable/clean_keeping_cleanout_shendu_icon" />
+
+    <ImageView
+        android:id="@+id/clean_keeping_cleanout_xinkaihuang_imageview"
+        android:layout_width="fill_parent"
+        android:layout_height="78dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:src="@drawable/clean_keeping_cleanout_xinkaihuang_icon" />
+
+</LinearLayout>

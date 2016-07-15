@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#e9e9e9"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/cancel_button"
+                android:layout_width="38dp"
+                android:layout_height="24dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center"
+                android:text="取消"
+                android:textColor="@color/_5F264F"
+                android:textSize="12sp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/confirm_button"
+                android:layout_width="38dp"
+                android:layout_height="24dp"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:text="确定"
+                android:textColor="@color/_5F264F"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/line_view"
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:layout_below="@id/confirm_button"
+            android:layout_marginTop="5dp"
+            android:background="@color/home_background_color" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lin_layout"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <com.lib.shiguotao.view.wheel.WheelView
+                android:id="@+id/wheelview_province"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+            </com.lib.shiguotao.view.wheel.WheelView>
+
+            <com.lib.shiguotao.view.wheel.WheelView
+                android:id="@+id/wheelview_city"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+            </com.lib.shiguotao.view.wheel.WheelView>
+
+            <com.lib.shiguotao.view.wheel.WheelView
+                android:id="@+id/wheelview_district"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+            </com.lib.shiguotao.view.wheel.WheelView>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

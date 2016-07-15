@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:minHeight="52dp"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/one_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="2015-05-06"
+        android:textColor="@color/_7d7d7d"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/home_background_color" />
+
+    <TextView
+        android:id="@+id/two_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="2015-05-06"
+        android:textColor="@color/_7d7d7d"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/home_background_color" />
+
+    <TextView
+        android:id="@+id/three_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0.8"
+        android:gravity="center"
+        android:text="代付款"
+        android:textColor="@color/_7d7d7d"
+        android:textSize="14sp" />
+
+</LinearLayout>

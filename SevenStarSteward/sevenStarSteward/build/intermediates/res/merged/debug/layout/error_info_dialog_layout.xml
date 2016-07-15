@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/error_dialog_backgroup"
+        tools:ignore="UselessParent" >
+
+        <TextView
+            android:id="@id/error_dialog_layout_ti_shi_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:ellipsize="end"
+            android:text="提示"
+            android:visibility="gone"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@id/error_dialog_layout_content_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/error_dialog_layout_ti_shi_tv"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="12dp"
+            android:ellipsize="end"
+            android:lineSpacingExtra="2dp"
+            android:textColor="@color/_868686"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@id/main_view_line"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_below="@id/error_dialog_layout_content_tv"
+            android:background="@color/_cfcfcf" />
+
+        <TextView
+            android:id="@id/error_dialog_layout_comfirm_tv"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/main_view_line"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:text="确定"
+            android:textColor="@color/blue"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</FrameLayout>

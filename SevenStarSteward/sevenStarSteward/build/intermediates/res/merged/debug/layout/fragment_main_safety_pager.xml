@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/main_background_color"
+            android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/safety_head_layout"
+            android:layout_width="match_parent"
+            android:layout_height="148dp"
+            android:layout_marginTop="3dp">
+
+            <ImageView
+                android:id="@+id/safety_head_imageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/safety_main_banner_icon"
+                android:visibility="visible"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="36dp"
+            android:layout_centerInParent="true"
+            android:background="@color/_5F264F"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:singleLine="true"
+            android:text="安全卫士"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
+
+        <com.lib.shiguotao.view.XGridView
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@null"
+            android:fadingEdge="none"
+            android:fillViewport="true"
+            android:horizontalSpacing="1dp"
+            android:listSelector="#00000000"
+            android:numColumns="3"
+            android:scrollbars="none"
+            android:verticalSpacing="1dp"
+            />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="36dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="3dp"
+            android:background="@color/_5F264F"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="20dp"
+            android:singleLine="true"
+            android:text="关联设备"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="46dp" android:background="@color/white" android:orientation="horizontal">
+            <LinearLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1.5" android:gravity="center" android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="center"
+                    android:src="@drawable/hongwai_icon"
+                    android:visibility="visible"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="红外"
+                    android:textColor="@color/_282828"
+                    android:textSize="24sp"/>
+            </LinearLayout>
+
+
+            <View android:layout_width="1dp" android:layout_height="match_parent" android:background="@color/home_background_color"/>
+
+            <ImageView
+                android:id="@+id/hongwai"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:scaleType="center"
+                android:src="@drawable/safety_guan_icon" android:visibility="visible"/>
+
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="46dp" android:layout_marginTop="1dp" android:background="@color/white" android:orientation="horizontal">
+            <LinearLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1.5" android:gravity="center" android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="center"
+                    android:src="@drawable/menci_icon"
+                    android:visibility="visible"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="门磁"
+                    android:textColor="@color/_282828"
+                    android:textSize="24sp"/>
+            </LinearLayout>
+
+
+            <View android:layout_width="1dp" android:layout_height="match_parent" android:background="@color/home_background_color"/>
+
+            <ImageView
+                android:id="@+id/menci"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:scaleType="center"
+                android:src="@drawable/safety_guan_icon" android:visibility="visible"/>
+
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="46dp" android:layout_marginTop="1dp" android:background="@color/white" android:orientation="horizontal">
+            <LinearLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1.5" android:gravity="center" android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="center"
+                    android:src="@drawable/yangan_icon"
+                    android:visibility="visible"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="烟感"
+                    android:textColor="@color/_282828"
+                    android:textSize="24sp"/>
+            </LinearLayout>
+
+            <View android:layout_width="1dp" android:layout_height="match_parent" android:background="@color/home_background_color"/>
+
+            <ImageView
+                android:id="@+id/yangan"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:scaleType="center"
+                android:src="@drawable/safety_guan_icon" android:visibility="visible"/>
+
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="@color/home_background_color"/>
+    </LinearLayout>
+
+
+</ScrollView>
